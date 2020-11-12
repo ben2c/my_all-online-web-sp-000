@@ -13,3 +13,4 @@ def my_all?(collection)
   else
     return true
 end
+end
